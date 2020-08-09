@@ -1,0 +1,4 @@
+Membuat frontend user dan visitors
+membuat backend
+menghubungkan frontend dan backend
+membuat halaman login dan registrasi
